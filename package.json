@@ -1,0 +1,22 @@
+{
+  "name": "nodeschool",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikhailMcInally/nodeschool.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikhailMcInally/nodeschool/issues"
+  },
+  "homepage": "https://github.com/MikhailMcInally/nodeschool#readme"
+}
