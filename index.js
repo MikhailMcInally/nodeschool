@@ -1,1 +1,1 @@
-console.log("Hello! Pistore here!");
+console.log("Hello! Pistore here! =)");
